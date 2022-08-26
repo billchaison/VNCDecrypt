@@ -17,3 +17,5 @@ The output will look like this:
 Reference
 
 https://miloserdov.org/?p=4854#6
+
+https://www.hackingarticles.in/vnc-penetration-testing/
