@@ -13,3 +13,7 @@ The output will look like this:
 00000000  53 65 63 75 72 65 21 00                           |Secure!.|
 00000008
 ```
+
+Reference
+
+https://miloserdov.org/?p=4854#6
