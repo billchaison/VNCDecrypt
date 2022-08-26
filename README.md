@@ -14,7 +14,7 @@ The output will look like this:
 00000008
 ```
 
-`e84ad660c4721ae0` is the DES Key of the VNC.
+The password stored in the register encrypted with a static key. `e84ad660c4721ae0` is the DES Key of the it. 
 
 ## Reference
 * https://wpkg.org/Talk:UltraVNC
