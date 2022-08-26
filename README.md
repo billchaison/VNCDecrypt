@@ -14,8 +14,9 @@ The output will look like this:
 00000008
 ```
 
-Reference
+`e84ad660c4721ae0` is the DES Key of the VNC.
 
-https://miloserdov.org/?p=4854#6
-
-https://www.hackingarticles.in/vnc-penetration-testing/
+## Reference
+* https://wpkg.org/Talk:UltraVNC
+* https://miloserdov.org/?p=4854#6
+* https://www.hackingarticles.in/vnc-penetration-testing/
